@@ -3,4 +3,5 @@
 *.exe
 array_print
 hello
-bin
+bin/
+
