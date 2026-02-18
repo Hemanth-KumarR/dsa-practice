@@ -12,7 +12,7 @@ int main()
     }
     for(int i=0; i<10; i++)
     {
-        sum += arr[i];  //add array elements to sum
+        sum = sum+arr[i];  //add array elements to sum
     }
     cout << "Sum of array elements: " << sum << endl;   //print sum of array elements
     return 0;
